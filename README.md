@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/github/tophatmonocle/AndroidPdfViewer/graph/badge.svg?token=SPH39UTV8A)](https://codecov.io/github/tophatmonocle/AndroidPdfViewer)
+
 
 # Looking for new maintainer!
 
